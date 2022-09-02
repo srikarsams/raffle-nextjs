@@ -10,6 +10,7 @@
     "prettify": "prettier -w ."
   },
   "dependencies": {
+    "ethers": "^5.7.0",
     "moralis": "^2.2.0",
     "next": "12.2.5",
     "react": "18.2.0",
